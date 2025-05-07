@@ -1,0 +1,22 @@
+<html>
+
+<body>
+
+    <svg width="1000" height="800" xmlns="http://www.w3.org/2000/svg">
+<g>
+<path d="M150 150 L 250 150 A 100.0 100.0 0 0,1 230 208 Z" fill="navy" stroke="black" />
+<path d="M150 150 L 250 150 A 100.0 100.0 0 0,1 230 208 Z" fill="purple" stroke="black" transform="rotate(36.0 150.0 150.0)"/>
+<path d="M150 150 L 250 150 A 100.0 100.0 0 0,1 230 208 Z" fill="brown" stroke="black" transform="rotate(72.0 150.0 150.0)"/>
+<path d="M150 150 L 250 150 A 100.0 100.0 0 1,1 119 54 Z" fill="white" stroke="black" transform="rotate(108.0 150.0 150.0)"/>
+</g>
+<g>
+<path d="M200 200 L 300 200 A 100.0 100.0 0 0,1 280 258 Z" fill="navy" stroke="black" />
+<path d="M200 200 L 300 200 A 100.0 100.0 0 0,1 280 258 Z" fill="purple" stroke="black" transform="rotate(36.0 200.0 200.0)"/>
+<path d="M200 200 L 300 200 A 100.0 100.0 0 0,1 280 258 Z" fill="brown" stroke="black" transform="rotate(72.0 200.0 200.0)"/>
+<path d="M200 200 L 300 200 A 100.0 100.0 0 1,1 169 104 Z" fill="white" stroke="black" transform="rotate(108.0 200.0 200.0)"/>
+</g>
+    </svg>
+
+</body>
+
+</html>

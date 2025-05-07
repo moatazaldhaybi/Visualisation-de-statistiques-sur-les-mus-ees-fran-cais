@@ -1,0 +1,7 @@
+<svg xmlns = "http://www.w3.org/2000/svg">
+<g>
+<path d="M200 200 L 300 200 A 100.0 100.0 0 0,1 258 280 Z" fill="#37dede" stroke="black" />
+<path d="M200 200 L 300 200 A 100.0 100.0 0 0,1 230 295 Z" fill="navy" stroke="black" transform="rotate(54.0 200.0 200.0)"/>   
+<path d="M200 200 L 300 200 A 100.0 100.0 0 1,1 141 119 Z" fill="purple" stroke="black" transform="rotate(126.0 200.0 200.0)"/>
+</g>
+</svg>
